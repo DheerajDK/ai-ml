@@ -3,36 +3,47 @@
 ** Machine Learning
 *** Supervised Learning
 **** Classification
-***** Logistic Regression
-***** Decision Trees
-***** Random Forest
-***** SVM
-***** k-NN
+***** Logistic Regression - linear decision boundary
+***** Decision Trees - rule-based splits
+***** Random Forest - ensemble of trees
+***** Support Vector Machine (SVM) - margin maximization
+***** k-Nearest Neighbors (k-NN) - distance-based
+***** Naive Bayes - probabilistic model
 **** Regression
-***** Linear Regression
-***** Ridge/Lasso
-***** SVR
+***** Linear Regression - straight line fit
+***** Ridge/Lasso Regression - regularized linear regression
+***** Support Vector Regression (SVR) - margin-based
+***** Decision Tree Regressor - rule-based prediction
+***** Random Forest Regressor - ensemble for regression
 *** Unsupervised Learning
 **** Clustering
-***** k-Means
-***** DBSCAN
-***** Hierarchical
+***** k-Means - centroid-based
+***** DBSCAN - density-based
+***** Hierarchical Clustering - nested groupings
+***** Gaussian Mixture Models (GMM) - probabilistic clusters
 **** Dimensionality Reduction
-***** PCA
-***** t-SNE
+***** PCA - linear projection
+***** t-SNE - nonlinear visualization
+***** UMAP - manifold learning
+***** ICA - independent component extraction
 *** Semi-Supervised Learning
-**** Self-Training
-**** Label Propagation
+**** Self-Training - use model to label new data
+**** Label Propagation - spread labels via graph
+**** Co-Training - use two views of the data
 *** Self-Supervised Learning
-**** Autoencoders
-**** Contrastive Learning
+**** Autoencoders - reconstruct input
+**** Contrastive Learning - learn via similarity
+**** BERT Pre-training - masked token prediction
+**** SimCLR - augment and compare
 ** Deep Learning
-*** CNN
-*** RNN
-*** Transformers
+*** Convolutional Neural Networks (CNN) - image data
+*** Recurrent Neural Networks (RNN) - sequential data
+*** Transformers - attention-based models
+*** GANs - generative adversarial nets
 ** Reinforcement Learning
-*** Q-Learning
-*** Deep Q Networks
-*** Policy Gradients
-*** PPO
+*** Q-Learning - value-based
+*** Deep Q Network (DQN) - neural network + Q-learning
+*** Policy Gradient Methods - optimize policy directly
+*** Proximal Policy Optimization (PPO) - stable updates
+*** Actor-Critic - combines value + policy learning
 @endmindmap
