@@ -1,0 +1,38 @@
+@startmindmap
+* Artificial Intelligence
+** Machine Learning
+*** Supervised Learning
+**** Classification
+***** Logistic Regression
+***** Decision Trees
+***** Random Forest
+***** SVM
+***** k-NN
+**** Regression
+***** Linear Regression
+***** Ridge/Lasso
+***** SVR
+*** Unsupervised Learning
+**** Clustering
+***** k-Means
+***** DBSCAN
+***** Hierarchical
+**** Dimensionality Reduction
+***** PCA
+***** t-SNE
+*** Semi-Supervised Learning
+**** Self-Training
+**** Label Propagation
+*** Self-Supervised Learning
+**** Autoencoders
+**** Contrastive Learning
+** Deep Learning
+*** CNN
+*** RNN
+*** Transformers
+** Reinforcement Learning
+*** Q-Learning
+*** Deep Q Networks
+*** Policy Gradients
+*** PPO
+@endmindmap
